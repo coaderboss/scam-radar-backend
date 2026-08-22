@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+keras
+tensorflow
+sentence-transformers
+supabase
+groq
+python-dotenv
+requests
