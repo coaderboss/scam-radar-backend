@@ -1,0 +1,13 @@
+# Python environment aur secrets
+venv/
+.env
+
+# Python Cache files (jo VS Code automatically banata hai)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
